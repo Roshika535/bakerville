@@ -1,0 +1,61 @@
+/* src/pages/BakerCatlog.css */
+.baker-catalog-container {
+    background-color: #f3f4f6;
+    padding: 1rem;
+  }
+  
+  .cake-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+  
+  .cake-card {
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+  
+  .cake-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .cake-content {
+    padding: 1rem;
+  }
+  
+  .cake-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #1f2937;
+  }
+  
+  .cake-preview-description {
+    color: #4b5563;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
+  }
+  
+  .cake-detail-description {
+    color: #4b5563;
+    margin-top: 0.5rem;
+    display: none;
+  }
+  
+  .cake-detail-description.show {
+    display: block;
+  }
+  
+  .toggle-description-button {
+    color: #3b82f6;
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-top: 0.5rem;
+    font-size: 1rem;
+  }
+  

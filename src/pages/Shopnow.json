@@ -1,0 +1,181 @@
+{
+    "product": "Cakes",
+    "cakes": [
+      {
+        "id": 1,
+        "title": "Lemon Cheesecake",
+        "previewDescription": "A cheesecake made of lemon",
+        "detailDescription": "Cheesecake is a sweet dessert consisting of one or more layers...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/lemoncheese_cake.jpg",
+        "price": 25.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 2,
+        "title": "Victoria Sponge",
+        "previewDescription": "Sponge with jam",
+        "detailDescription": "The Victoria sponge, also known as the Victoria sandwich or Victorian Cake...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/victoria_sponge.jpg",
+        "price": 20.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 3,
+        "title": "Carrot Cake",
+        "previewDescription": "Bugs Bunny's favourite",
+        "detailDescription": "Carrot cake closely resembles a quick bread in method of preparation...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/carrot_cake.jpg",
+        "price": 22.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 4,
+        "title": "Banana Cake",
+        "previewDescription": "Banana cake is a cake prepared using banana",
+        "detailDescription": "Banana cake is prepared using banana as a primary ingredient...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/banana_cake.jpg",
+        "price": 18.99,
+        "availability": "Out of Stock"
+      },
+      {
+        "id": 5,
+        "title": "Birthday Cake",
+        "previewDescription": "A yearly treat",
+        "detailDescription": "The birthday cake has been an integral part of birthday celebrations...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/birthday_cake.JPG",
+        "price": 30.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 6,
+        "title": "Avocado Cake",
+        "previewDescription": "Avocado cake is a cake prepared using avocado",
+        "detailDescription": "Avocado cake is a cake prepared using avocado as a primary ingredient...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/avocado_cake.jpg",
+        "price": 23.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 7,
+        "title": "Chocolate Cake",
+        "previewDescription": "Chocolate cake is a cake flavored with melted chocolate, cocoa powder, or sometimes both.",
+        "detailDescription": "Chocolate cake is made with chocolate; it can be made with other ingredients, as well...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/chocolate_cake.jpg",
+        "price": 27.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 8,
+        "title": "Clementine Cake",
+        "previewDescription": "Clementine cake is a cake prepared with clementine fruit",
+        "detailDescription": "Clementine cake is a cake prepared with clementine fruit as a primary ingredient...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/clementine_cake.png",
+        "price": 19.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 9,
+        "title": "Fudge Cake",
+        "previewDescription": "A fudge cake is a chocolate cake containing fudge",
+        "detailDescription": "This recipe is also known as 'Death by Chocolate', as it contains a considerable amount of chocolate...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/fudge_cake.jpg",
+        "price": 28.99,
+        "availability": "Out of Stock"
+      },
+      {
+        "id": 10,
+        "title": "Spice Cake",
+        "previewDescription": "Spice cake is traditionally flavored with a mixture of spices.",
+        "detailDescription": "Spice cake is traditionally flavored with a mixture of spices...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/spice_cake.jpg",
+        "price": 21.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 11,
+        "title": "Jewish Apple Cake",
+        "previewDescription": "Jewish apple cake is a kind of dense cake made with apples and sold mostly in Pennsylvania in the United States.",
+        "detailDescription": "Jewish apple cake is a kind of dense cake made with apples and sold mostly in Pennsylvania...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/jewish_apple_cake.jpg",
+        "price": 24.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 12,
+        "title": "Plum Cake",
+        "previewDescription": "Plum cake refers to a wide range of cakes made with either dried fruit or with fresh fruit.",
+        "detailDescription": "Plum cake refers to a wide range of cakes made with either dried fruit or fresh fruit...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/plum_cake.jpg",
+        "price": 26.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 13,
+        "title": "Apple Cake",
+        "previewDescription": "Apple cake is a popular dessert produced with the main ingredient of apples.",
+        "detailDescription": "Apple cake is a popular dessert produced with the main ingredient of apples...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/apple_cake.JPG",
+        "price": 22.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 14,
+        "title": "Bulla Cake",
+        "previewDescription": "Bulla cake is a rich Jamaican cake made with molasses and spiced with ginger and nutmeg.",
+        "detailDescription": "Bulla cake, usually referred to as bulla, is a rich Jamaican cake made with molasses...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/bulla_cake.jpg",
+        "price": 18.99,
+        "availability": "Out of Stock"
+      },
+      {
+        "id": 15,
+        "title": "Jaffa Cake",
+        "previewDescription": "Jaffa Cakes are biscuit-sized cakes.",
+        "detailDescription": "Jaffa Cakes are biscuit-sized cakes introduced by McVitie and Price in the UK...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/jaffa_cake.png",
+        "price": 16.99,
+        "availability": "In Stock"
+      },
+      {
+        "id": 16,
+        "title": "Strawberry Cake",
+        "previewDescription": "Strawberry cake is a crumbly bread made by strawberry.",
+        "detailDescription": "Strawberry cake is a cake that uses strawberry as a primary ingredient...",
+        "image": "https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/strawberry_cake.jpg",
+        "price": 23.99,
+        "availability": "In Stock"
+      }
+    ],
+    "staffContacts": [
+      {
+        "id": 12345,
+        "name": "Filippo Engidashet",
+        "phones": {
+          "home": "+0123456789",
+          "mobile": "+999999999"
+        },
+        "role": "Manager",
+        "dateOfBirth": "1965-01-05T00:00:00.000Z",
+        "email": [
+          "fe@example.com",
+          "fe@example.org",
+          "filippo.eng@gmail.com"
+        ]
+      },
+      {
+        "id": 11111,
+        "name": "Abebe Kebede",
+        "phones": {
+          "home": null,
+          "mobile": "+9876543210"
+        },
+        "role": "Baker",
+        "dateOfBirth": "1980-01-02T00:00:00.000Z",
+        "email": [
+          "jd@example.com",
+          "jd@example.org"
+        ]
+      }
+    ]
+  }
+  
